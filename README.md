@@ -4,8 +4,6 @@
 
 Me chamo Luana Oliveira, estou em transição de carreira para área de tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Tenho aprofundado meus conhecimentos em desenvolvimento Front-End e venho criando alguns projetos que posto aqui no meu perfil.
 
-
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -42,9 +40,8 @@ Me chamo Luana Oliveira, estou em transição de carreira para área de tecnolog
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<br/>
 
-<br/>
-<br/>
 
 ### 📊 Estatísticas
 
