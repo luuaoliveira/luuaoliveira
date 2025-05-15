@@ -49,7 +49,7 @@ Me chamo Luana Oliveira, estou em transição de carreira para área de tecnolog
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=luuaoliveira&show_icons=true&theme=omni&include_all_commits=true&locale=pt-br" 
   />
@@ -57,7 +57,7 @@ Me chamo Luana Oliveira, estou em transição de carreira para área de tecnolog
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="180" 
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuaoliveira&theme=omni&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
