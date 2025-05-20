@@ -1,4 +1,4 @@
-##  👩🏻‍💻 Luana Oliveira
+##  👩🏻‍💻 Luana 
 
 **`Desenvolvedora Front-End em formação`**
 
